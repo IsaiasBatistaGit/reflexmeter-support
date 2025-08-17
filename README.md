@@ -26,7 +26,7 @@ Reflex Meter is a simple yet addictive reflex game that tests your reaction time
 
 ## 📞 Support
 
-For additional support, please visit our [support page](support.html) or contact us at support@tapthedot.app
+For additional support, please visit our [support page](support.html) or contact us at support@starlightvison.com
 
 ## 📱 App Store
 
